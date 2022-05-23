@@ -1,0 +1,16 @@
+Ecommerce website
+
+customer
+navbar options- search items, cart,login/logout / if login google login/website login- my profile-  address/gender/email/mobile number/ deactivate account/ wishlist/ reviews/ratings/ became a seller
+/return/exchange/ //language option-hindi/english // customer services options
+filter options--- filter options navbar
+
+cart page if product- checkout option---payment gateway options
+
+home page can select multiple items to cart
+
+cart- can incre/decrease
+
+seller- can add projects after verification from admin , can only add crud operation on his added items
+
+admin can do crud operations on all products
